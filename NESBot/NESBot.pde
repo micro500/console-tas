@@ -81,7 +81,17 @@ void setup()
     digitalWrite(READY, LOW);
     
     // Make sure the SD card is ready for communication
-    SD.begin(19);
+    if (SD.begin(19) == false)
+    {
+      digitalWrite(READY, HIGH);
+      while (1)
+      {
+        digitalWrite(STATUS, HIGH);
+        delay(1000);
+        digitalWrite(STATUS, LOW);
+        delay(1000);
+      }
+    }
     
     // Initialize the NES playing mode if not done already
     // All of our simulated buttons need to be outputs
@@ -136,9 +146,30 @@ void loop()
       detachInterrupt(0);
       MsTimer2::stop();
       movie.close();
+      while (1)
+      {
+        digitalWrite(READY, HIGH);
+        digitalWrite(STATUS, HIGH);
+        delay(1000);
+        digitalWrite(READY, LOW);
+        digitalWrite(STATUS, LOW);
+        delay(1000);
+      }
     }
     else
     {
+      digitalWrite(STATUS, HIGH);
+      digitalWrite(READY, HIGH);
+      delay(250);
+      digitalWrite(STATUS, LOW);
+      digitalWrite(READY, LOW);
+      delay(250);
+      digitalWrite(STATUS, HIGH);
+      digitalWrite(READY, HIGH);
+      delay(250);
+      digitalWrite(STATUS, LOW);
+      digitalWrite(READY, LOW);
+      delay(1000);
       // FAILED TO OPEN MOVIE
     }
 }
