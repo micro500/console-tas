@@ -8,6 +8,7 @@
 #define SELECT 5
 #define B 4
 #define A 3
+#define SDPIN 19
 
 #define READY 16    // analog pin 2
 #define GOBTN 17    // analog pin 3
@@ -30,6 +31,7 @@
 #define DOWN 17
 #define UP 18
 #define A 19
+#define SDPIN 10
 
 #define READY 6    // analog pin 2
 #define GOBTN 8    // analog pin 3
