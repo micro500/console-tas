@@ -2,17 +2,16 @@
 #include "NESBot.h"
 
 #include <MsTimer2.h>
-#include <SdFat.h>
+#include <SD.h>
 
-SdFat sd;
-SdFile movie;
+File movie;
 
 void latch_pulse()
 {
     MsTimer2::start();
     
     // If the movie is over, disable the bot   
-    if (movie.curPosition() >= movie.fileSize())
+    if (movie.position() >= movie.size())
     {
         writeButtons();
         detachInterrupt(0);
@@ -20,22 +19,22 @@ void latch_pulse()
     }
         
     // Flash the status led every 5 latches (~6 times a second)
-    if (movie.curPosition() % 10 == 0)
+    if (movie.position() % 10 == 0)
     {
         digitalWrite(STATUS, HIGH);
     }
     
-    if (movie.curPosition() % 10 == 5)
+    if (movie.position() % 10 == 5)
     {
         digitalWrite(STATUS, LOW);
     }
     
-    if (movie.curPosition() % 50 == 0)
+    if (movie.position() % 50 == 0)
     {
         digitalWrite(READY, HIGH);
     }
     
-    if (movie.curPosition() % 50 == 25)
+    if (movie.position() % 50 == 25)
     {
         digitalWrite(READY, LOW);
     }
@@ -82,8 +81,7 @@ void setup()
     digitalWrite(READY, LOW);
     
     // Make sure the SD card is ready for communication
-//    if (SD.begin(SDPIN) == false)
-    if (!sd.init(SPI_HALF_SPEED, SDPIN))
+    if (SD.begin(SDPIN) == false)
     {
       digitalWrite(READY, HIGH);
       while (1)
@@ -114,21 +112,21 @@ void setup()
 
 void loop()
 {     
-    movie.open("tas.txt", O_READ);
+    movie = SD.open("tas.txt", O_READ);
     
     // Make sure we opened the movie file ok
-    if (movie.fileSize() > 0)
+    if (movie.size() > 0)
     {
-      Serial.println(movie.fileSize());
-      Serial.println(movie.curPosition());
+      Serial.println(movie.size());
+      Serial.println(movie.position());
       // Turn on the ready light
       digitalWrite(READY, HIGH);
       while (digitalRead(GOBTN) == HIGH);
 
       // Write the first set of buttons
       writeButtons();
-      movie.seekSet(0);
-      Serial.println(movie.curPosition());
+      movie.seek(0);
+      Serial.println(movie.position());
       
       // We are now ready to talk to the console, so turn on interrupts
       attachInterrupt(0,latch_pulse, FALLING);
@@ -145,7 +143,7 @@ void loop()
       // Now would be a good time to turn on the console and watch it go!
       
       // Waste time until the movie is over!
-      while (movie.curPosition() < movie.fileSize()) {}  
+      while (movie.position() < movie.size()) {}  
       
       // Movie is over, clean up stuff
       // Note: This MIGHT be unreachable as of right now
