@@ -122,17 +122,16 @@ void loop()
       // Turn on the ready light
       digitalWrite(READY, HIGH);
       while (digitalRead(GOBTN) == HIGH);
-
-      // Write the first set of buttons
-      writeButtons();
-      movie.seek(0);
-      Serial.println(movie.position());
       
       // We are now ready to talk to the console, so turn on interrupts
       attachInterrupt(0,latch_pulse, FALLING);
       
       // Wait for the user to release the go button
       while (digitalRead(GOBTN) == LOW);
+      // Write the first set of buttons
+      writeButtons();
+      movie.seek(0);
+      Serial.println(movie.position());
       
       // We are now running, turn off the ready light
       digitalWrite(READY, LOW);
