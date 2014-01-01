@@ -5,7 +5,7 @@ CON
    DATA = 16
 obj
   term : "FullDuplexSerial"
-  sdfat: "fsrw"'
+  
 var
   long data_out
   byte spin_frame
@@ -18,62 +18,29 @@ var
 
 
 pub main
-  term.start(31, 30, 0, 115200)
-
-  sdfat.mount_explicit(23,22,21,20)
-
-  sdfat.popen(string("tas.txt"),"r")
-
-  sdfat.pread(@buffer, 1024)
+  term.start(31, 30, 0, 19200)
 
   cognew(new_data, @stack)
   cognew(@entry, @spin_frame)
-
-'  repeat
-'    term.bin(long[@spin_frame],32)
-'    term.str(string(13))
-'    waitcnt(800_000 + cnt)
-'  term.str(string("reset",13))        
-'  repeat
-'    repeat while (spin_frame2 == 0)
-'    term.bin(spin_frame,8)
-'    term.str(string(13))
-'    spin_frame2 := 0
 
   repeat
     'term.bin(data_out,32)
     term.dec(long[@spin_frame])
     term.str(string(13))
+    term.str(string(10))
 '    term.dec(long[@spin_frame + 4])
 '    term.str(string(13))
-    waitcnt(800_000 + cnt)
+    waitcnt(80_000 + cnt)
 
-
-
+pub new_data | cur_addr, inbyte
+  cur_addr := 0
   repeat
-  'DIRA[DATA] := 1
-
-  'OUTA[DATA] := 1
-
-  'waitcnt(80_000_000 + CNT)
-
-  'OUTA[DATA] := 0
-
-pub new_data | data_read1, data_read2
-  data_read1 := 0
-  data_read2 := 0
-  repeat
-    if ((long[@spin_frame]) // 1024 > 512 AND data_read1 == 0)
-      sdfat.pread(@buffer, 512)
-      data_read1 := 1
-      data_read2 := 0
-      term.str(string("filled 1",13))
-    elseif ((long[@spin_frame] // 1024) < 512 and long[@spin_frame] > 1024 and data_read2 == 0)
-      sdfat.pread(@buffer[512], 512)
-      data_read1 := 0
-      data_read2 := 1
-      term.str(string("filled 2",13))
-
+    inbyte := term.RX
+    if (inbyte <> -1)
+      buffer[cur_addr] := inbyte
+      cur_addr := cur_addr + 1
+      if cur_addr > 1023
+        cur_addr := 0
 
 
 dat
