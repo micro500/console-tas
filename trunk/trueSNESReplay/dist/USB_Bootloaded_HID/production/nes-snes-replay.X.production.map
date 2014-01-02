@@ -1,0 +1,1935 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (INTDisableInterrupts)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (INTRestoreInterrupts)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (INTEnableSystemMultiVectoredInt)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+                              build/USB_Bootloaded_HID/production/usb/usb_device.o (INTClearFlag)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTSetPinsDigitalIn)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTSetPinsDigitalOut)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTReadBits)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTClearBits)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTSetBits)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (PORTToggleBits)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o) (PortRegTbl)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                              build/USB_Bootloaded_HID/production/main.o (UARTEnable)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+                              build/USB_Bootloaded_HID/production/usb/usb_device.o (memset)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o (_bootstrap_exception_handler)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o (_on_reset)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o (_on_bootstrap)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o (_nmi_handler)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o (_general_exception_context)
+c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+                              c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o) (_general_exception_handler)
+
+Allocating common symbols
+Common symbol       size              file
+
+pDst                0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+latches_per_frame   0x1               build/USB_Bootloaded_HID/production/main.o
+uart_tx_buf         0x20              build/USB_Bootloaded_HID/production/main.o
+data_read           0x4               build/USB_Bootloaded_HID/production/main.o
+usb_tx_buf          0x40              build/USB_Bootloaded_HID/production/main.o
+lastTransmission    0x4               build/USB_Bootloaded_HID/production/usb/usb.o
+uart_err_count      0x4               build/USB_Bootloaded_HID/production/main.o
+control_signal_bitmap
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+USBDeferINDataStagePackets
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+usb_in_rdy          0x1               build/USB_Bootloaded_HID/production/usb/usb.o
+BDT                 0x60              build/USB_Bootloaded_HID/production/usb/usb_device.o
+CtrlTrfData         0x8               build/USB_Bootloaded_HID/production/usb/usb_device.o
+USBDeferOUTDataStagePackets
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+framecount          0x8               build/USB_Bootloaded_HID/production/main.o
+USBDeviceState      0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+controlTransferState
+                    0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+cdc_tx_len          0x1               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+usb_out_buf         0x40              build/USB_Bootloaded_HID/production/usb/usb.o
+last_usb_in         0x1               build/USB_Bootloaded_HID/production/usb/usb.o
+lastlag             0x4               build/USB_Bootloaded_HID/production/main.o
+endpoint_number     0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+pCDCSrc             0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+latch_dir           0x1               build/USB_Bootloaded_HID/production/main.o
+cdc_data_tx         0xc0              build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+led_count           0x4               build/USB_Bootloaded_HID/production/main.o
+inPipes             0x10              build/USB_Bootloaded_HID/production/usb/usb_device.o
+pBDTEntryIn         0xc               build/USB_Bootloaded_HID/production/usb/usb_device.o
+CDCDataOutHandle    0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+uart_rx_timeout     0x4               build/USB_Bootloaded_HID/production/main.o
+cdc_rx_len          0x1               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+line_coding         0x8               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ep_data_out         0x3               build/USB_Bootloaded_HID/production/usb/usb_device.o
+USBStatusStageEnabledFlag1
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+usb_rx_len          0x1               build/USB_Bootloaded_HID/production/main.o
+vsync_detect        0x1               build/USB_Bootloaded_HID/production/main.o
+frameperiod         0x4               build/USB_Bootloaded_HID/production/main.o
+led_flash           0x4               build/USB_Bootloaded_HID/production/main.o
+BaudRateGen         0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+USBStatusStageEnabledFlag2
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+pBDTEntryOut        0xc               build/USB_Bootloaded_HID/production/usb/usb_device.o
+lagdet_ena          0x1               build/USB_Bootloaded_HID/production/main.o
+CDCDataInHandle     0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+BothEP0OutUOWNsSet  0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+cdc_data_rx         0x40              build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+cdc_notice          0xa               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+pBDTEntryEP0OutNext
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+USBBusIsSuspended   0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+data                0x400             build/USB_Bootloaded_HID/production/main.o
+data_write          0x4               build/USB_Bootloaded_HID/production/main.o
+USBStatusStageTimeoutCounter
+                    0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+cdc_trf_state       0x1               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+SetupPkt            0x8               build/USB_Bootloaded_HID/production/usb/usb_device.o
+next_usb_tx         0x1               build/USB_Bootloaded_HID/production/main.o
+uart_rx_buf         0x48              build/USB_Bootloaded_HID/production/main.o
+pCDCDst             0x4               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+cdc_mem_type        0x1               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ep_data_in          0x3               build/USB_Bootloaded_HID/production/usb/usb_device.o
+console_is_reset    0x4               build/USB_Bootloaded_HID/production/main.o
+usb_rx_buf          0xc0              build/USB_Bootloaded_HID/production/main.o
+shortPacketStatus   0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+next_usb_out        0x1               build/USB_Bootloaded_HID/production/usb/usb.o
+pBDTEntryEP0OutCurrent
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+USBActiveConfiguration
+                    0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+RemoteWakeup        0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+usb_in_buf          0xc0              build/USB_Bootloaded_HID/production/usb/usb.o
+USTATcopy           0x1               build/USB_Bootloaded_HID/production/usb/usb_device.o
+btn_count           0x8               build/USB_Bootloaded_HID/production/main.o
+data_mask           0x2               build/USB_Bootloaded_HID/production/main.o
+USBAlternateInterface
+                    0x2               build/USB_Bootloaded_HID/production/usb/usb_device.o
+outPipes            0xb               build/USB_Bootloaded_HID/production/usb/usb_device.o
+usb_in_pos          0x1               build/USB_Bootloaded_HID/production/usb/usb.o
+dummy_encapsulated_cmd_response
+                    0x8               build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+clock               0x4               build/USB_Bootloaded_HID/production/main.o
+USBDeferStatusStagePacket
+                    0x4               build/USB_Bootloaded_HID/production/usb/usb_device.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text.USBDeviceTasks    0x9d005490         0x11c8        4552   
+.rodata                 0x9d006658          0x558        1368  Read-only const 
+.text.main              0x9d006bb0          0x4e0        1248   
+.text.nesLatchHandler   0x9d007090          0x3bc         956   
+.text.parse_uart        0x9d00744c          0x350         848   
+.text.timer1Handler     0x9d00779c          0x330         816   
+.text.nesClock          0x9d007acc          0x200         512   
+.text.USBDeviceInit     0x9d007ccc          0x1e8         488   
+.text.timer2Handler     0x9d007eb4          0x17c         380   
+.text.snesIOChange      0x9d008030          0x178         376   
+.text.CDCTxService      0x9d0081a8          0x160         352   
+.text.USBCheckCDCReques 0x9d008308          0x158         344   
+.text.uart1Handler      0x9d008460          0x158         344   
+.text.timer5Handler     0x9d0085b8          0x14c         332   
+.text.timer4Handler     0x9d008704          0x148         328   
+.text.CNHandler         0x9d00884c          0x144         324   
+.text.USBCtrlEPAllowSta 0x9d008990          0x124         292   
+.text.nesClockHandler1  0x9d008ab4          0x10c         268   
+.text.nesClockHandler0  0x9d008bc0          0x10c         268   
+.text.USBTransferOnePac 0x9d008ccc          0x104         260   
+.text.USBCtrlTrfTxServi 0x9d008dd0           0xe4         228   
+.text.general_exception 0x9d008eb4           0xd0         208   
+.text.USBCtrlEPAllowDat 0x9d008f84           0xc8         200   
+.text.getsUSBUSART      0x9d00904c           0xb0         176   
+.text                   0x9d0090fc           0xa8         168  App's exec code 
+.text.setup_uart        0x9d0091a4           0xa4         164   
+.text.nesPrepareNext    0x9d009248           0xa4         164   
+.dinit                  0x9d0092ec           0x90         144   
+.text.UserUSBSetLineCod 0x9d00937c           0x88         136   
+.text.SerGetDataByte    0x9d009404           0x84         132   
+.text.lagtimer_init     0x9d009488           0x84         132   
+.text.frametimer_init   0x9d00950c           0x80         128   
+.text.datatimer_init    0x9d00958c           0x80         128   
+.text.UARTEnable        0x9d00960c           0x80         128   
+.text.USBEnableEndpoint 0x9d00968c           0x6c         108   
+.text.CDCInitEP         0x9d0096f8           0x6c         108   
+.text.USBConfigureEndpo 0x9d009764           0x5c          92   
+.text.UARTSetDataRate   0x9d0097c0           0x5c          92   
+.text.USER_USB_CALLBACK 0x9d00981c           0x4c          76   
+.text.SerSendDataByte   0x9d009868           0x48          72   
+.rodata.configDescripto 0x9d0098b0           0x44          68   
+.text.PORTSetPinsDigita 0x9d0098f4           0x3c          60   
+.text.PORTSetPinsDigita 0x9d009930           0x3c          60   
+.text.UARTConfigure     0x9d00996c           0x3c          60   
+.rodata.sd002.sd002     0x9d0099a8           0x38          56   
+.text.INTSetVectorPrior 0x9d0099e0           0x38          56   
+.text.INTSetVectorSubPr 0x9d009a18           0x38          56   
+.text                   0x9d009a50           0x34          52  App's exec code 
+.text.INTEnableSystemMu 0x9d009a84           0x34          52   
+.text.INTClearFlag      0x9d009ab8           0x28          40   
+.text.UARTSetFifoMode   0x9d009ae0           0x28          40   
+.text.UARTSetLineContro 0x9d009b08           0x28          40   
+.text.putUSBUSART       0x9d009b30           0x24          36   
+.text.PORTReadBits      0x9d009b54           0x24          36   
+.text.PORTClearBits     0x9d009b78           0x24          36   
+.text.PORTSetBits       0x9d009b9c           0x24          36   
+.text.PORTToggleBits    0x9d009bc0           0x24          36   
+.text.INTRestoreInterru 0x9d009be4           0x1c          28   
+.rodata.sd001.sd001     0x9d009c00           0x18          24   
+.rodata                 0x9d009c18           0x18          24  Read-only const 
+.text                   0x9d009c30           0x18          24  App's exec code 
+.rodata.device_dsc.devi 0x9d009c48           0x14          20   
+.rodata.USB_SD_Ptr.USB_ 0x9d009c5c            0xc          12   
+.text.InitializeUSB     0x9d009c68            0x8           8   
+.rodata.iopin_data0.iop 0x9d009c70            0x8           8   
+.rodata.iopin_data1.iop 0x9d009c78            0x8           8   
+.text.INTDisableInterru 0x9d009c80            0x8           8   
+.rodata                 0x9d009c88            0x8           8  Read-only const 
+.text.INTEnableInterrup 0x9d009c90            0x8           8   
+.text._bootstrap_except 0x9d009c98            0x8           8   
+.text._on_reset         0x9d009ca0            0x8           8   
+.text._on_bootstrap     0x9d009ca8            0x8           8   
+.text._general_exceptio 0x9d009cb0            0x8           8   
+.rodata.sd000.sd000     0x9d009cb8            0x4           4   
+.rodata.USB_CD_Ptr.USB_ 0x9d009cbc            0x4           4   
+      Total kseg0_program_mem used  :      0x4830       18480  16.9% of 0x1ab70
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+         Total kseg0_boot_mem used  :           0           0  
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9d004180           0x10          16  General-Exception 
+.vector_3               0x9d004260            0x8           8  Interrupt Vector 3 
+.vector_4               0x9d004280            0x8           8  Interrupt Vector 4 
+.vector_7               0x9d0042e0            0x8           8  Interrupt Vector 7 
+.vector_8               0x9d004300            0x8           8  Interrupt Vector 8 
+.vector_11              0x9d004360            0x8           8  Interrupt Vector 11 
+.vector_16              0x9d004400            0x8           8  Interrupt Vector 16 
+.vector_20              0x9d004480            0x8           8  Interrupt Vector 20 
+.vector_32              0x9d004600            0x8           8  Interrupt Vector 32 
+.vector_34              0x9d004640            0x8           8  Interrupt Vector 34 
+          Total exception_mem used  :        0x58          88  2.1% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0x9d005000          0x1f4         500  Reset handler 
+.bev_excpt              0x9d005380           0x10          16  BEV-Exception 
+         Total kseg1_boot_mem used  :       0x204         516  44.2% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x4a8c       19084  16.6% of 0x1c000
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.sdata                  0xa0000000            0xc          12  Small init data 
+.sbss                   0xa000000c           0xf8         248  Small uninit data 
+.bss                    0xa0000200          0x708        1800  Uninitialized data 
+         Total kseg1_data_mem used  :       0x80c        2060  6.3% of 0x8000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0x80c        2060  6.3% of 0x8000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0xa0000910           0x10          16  Reserved for heap 
+stack                   0xa0000938         0x76c0       30400  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+ .text          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb.o
+ .data          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb.o
+ .bss           0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb.o
+ .reginfo       0x00000000       0x18 build/USB_Bootloaded_HID/production/usb/usb.o
+ .text.USBCBCheckOtherReq
+                0x00000000        0x8 build/USB_Bootloaded_HID/production/usb/usb.o
+ .text.USBCBInitEP
+                0x00000000        0x8 build/USB_Bootloaded_HID/production/usb/usb.o
+ .text.USBCBSendResume
+                0x00000000       0x70 build/USB_Bootloaded_HID/production/usb/usb.o
+ .sbss.delay_count.12512.delay_count
+                0x00000000        0x2 build/USB_Bootloaded_HID/production/usb/usb.o
+ COMMON         0x00000000      0x100 build/USB_Bootloaded_HID/production/usb/usb.o
+ .text          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .data          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .bss           0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .reginfo       0x00000000       0x18 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .text.USBStallEndpoint
+                0x00000000       0xf4 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .text.USBCancelIO
+                0x00000000      0x1b0 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .text          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .data          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .bss           0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .reginfo       0x00000000       0x18 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .text.USBCDCEventHandler
+                0x00000000       0x68 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .text.putsUSBUSART
+                0x00000000       0x48 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .text.putrsUSBUSART
+                0x00000000       0x48 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .text          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .data          0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .bss           0x00000000        0x0 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .reginfo       0x00000000       0x18 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .text          0x00000000        0x0 build/USB_Bootloaded_HID/production/main.o
+ .data          0x00000000        0x0 build/USB_Bootloaded_HID/production/main.o
+ .bss           0x00000000        0x0 build/USB_Bootloaded_HID/production/main.o
+ .reginfo       0x00000000       0x18 build/USB_Bootloaded_HID/production/main.o
+ .rodata.iopin_port.iopin_port
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .rodata.iopin_latch.iopin_latch
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .rodata.iopin_clock.iopin_clock
+                0x00000000        0x8 build/USB_Bootloaded_HID/production/main.o
+ .rodata.iopin_ioaux.iopin_ioaux
+                0x00000000        0x8 build/USB_Bootloaded_HID/production/main.o
+ .rodata.led_port.led_port
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .rodata.led_pin.led_pin
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .rodata.btn_port.btn_port
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .rodata.btn_pin.btn_pin
+                0x00000000        0x4 build/USB_Bootloaded_HID/production/main.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX250F128B\processor.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX250F128B\processor.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX250F128B\processor.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX250F128B\processor.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .pdr           0x00000000      0x120 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTSetFlag
+                0x00000000       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTGetFlag
+                0x00000000       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTEnable
+                0x00000000       0x50 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTGetEnable
+                0x00000000       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTGetVectorPriority
+                0x00000000       0x2c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text.INTGetVectorSubPriority
+                0x00000000       0x2c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .pdr           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .pdr           0x00000000      0x100 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .text.UARTGetDataRate
+                0x00000000       0x40 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .text.UARTSetAddress
+                0x00000000       0x3c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .text.UARTWatchForAddress
+                0x00000000       0x38 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d005490         0x0001ab70         xr
+exception_mem    0x9d004000         0x00001000
+debug_exec_mem   0x9fc00490         0x00000760
+kseg0_boot_mem   0x9d004000         0x00000000
+kseg1_boot_mem   0x9d005000         0x00000490
+config3          0xbfc00bf0         0x00000004
+config2          0xbfc00bf4         0x00000004
+config1          0xbfc00bf8         0x00000004
+config0          0xbfc00bfc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc00bf0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+LOAD build/USB_Bootloaded_HID/production/usb/usb.o
+LOAD build/USB_Bootloaded_HID/production/usb/usb_device.o
+LOAD build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+LOAD build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+LOAD build/USB_Bootloaded_HID/production/main.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX250F128B\processor.o
+START GROUP
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a
+END GROUP
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9d004000                _ebase_address = 0x9d004000
+                0x9d005000                _RESET_ADDR = 0x9d005000
+                0x9d005380                _BEV_EXCPT_ADDR = 0x9d005380
+                0x9d005480                _DBG_EXCPT_ADDR = 0x9d005480
+                0x9fc00490                _DBG_CODE_ADDR = 0x9fc00490
+                0x00000760                _DBG_CODE_SIZE = 0x760
+                0x9d004180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC00BF0
+                0xbfc00bf0        0x4
+ *(.config_BFC00BF0)
+ .config_BFC00BF0
+                0xbfc00bf0        0x4 build/USB_Bootloaded_HID/production/main.o
+
+.config_BFC00BF4
+                0xbfc00bf4        0x4
+ *(.config_BFC00BF4)
+ .config_BFC00BF4
+                0xbfc00bf4        0x4 build/USB_Bootloaded_HID/production/main.o
+
+.config_BFC00BF8
+                0xbfc00bf8        0x4
+ *(.config_BFC00BF8)
+ .config_BFC00BF8
+                0xbfc00bf8        0x4 build/USB_Bootloaded_HID/production/main.o
+
+.config_BFC00BFC
+                0xbfc00bfc        0x4
+ *(.config_BFC00BFC)
+ .config_BFC00BFC
+                0xbfc00bfc        0x4 build/USB_Bootloaded_HID/production/main.o
+                0xbfc02000                PROVIDE (_DBG_CODE_ADDR, 0xbfc02000)
+                0x00000ff0                PROVIDE (_DBG_CODE_SIZE, 0xff0)
+
+.reset          0x9d005000      0x1f4
+ *(.reset)
+ .reset         0x9d005000       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+                0x9d005000                _reset
+ *(.reset.startup)
+ .reset.startup
+                0x9d005010      0x1e4 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+
+.bev_excpt      0x9d005380       0x10
+ *(.bev_handler)
+ .bev_handler   0x9d005380       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+
+.dbg_excpt      0x9d005480        0x0
+                0x9d005480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0x9fc00490        0x0
+                0x9fc00490                . = (. + DEFINED (_DEBUGGER)?_DBG_CODE_SIZE:0x0)
+
+.app_excpt      0x9d004180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9d004180       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+
+.vector_0       0x9d004200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9d004220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9d004240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9d004260        0x8
+ *(.vector_3)
+ .vector_3      0x9d004260        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004260                __vector_dispatch_3
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9d004280        0x8
+ *(.vector_4)
+ .vector_4      0x9d004280        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004280                __vector_dispatch_4
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9d0042a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9d0042c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9d0042e0        0x8
+ *(.vector_7)
+ .vector_7      0x9d0042e0        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d0042e0                __vector_dispatch_7
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9d004300        0x8
+ *(.vector_8)
+ .vector_8      0x9d004300        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004300                __vector_dispatch_8
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9d004320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9d004340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9d004360        0x8
+ *(.vector_11)
+ .vector_11     0x9d004360        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004360                __vector_dispatch_11
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9d004380        0x0
+ *(.vector_12)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9d0043a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9d0043c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9d0043e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9d004400        0x8
+ *(.vector_16)
+ .vector_16     0x9d004400        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004400                __vector_dispatch_16
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9d004420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9d004440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9d004460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9d004480        0x8
+ *(.vector_20)
+ .vector_20     0x9d004480        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004480                __vector_dispatch_20
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9d0044a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9d0044c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9d0044e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9d004500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9d004520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9d004540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9d004560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9d004580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9d0045a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9d0045c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9d0045e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9d004600        0x8
+ *(.vector_32)
+ .vector_32     0x9d004600        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004600                __vector_dispatch_32
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9d004620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9d004640        0x8
+ *(.vector_34)
+ .vector_34     0x9d004640        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d004640                __vector_dispatch_34
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9d004660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9d004680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9d0046a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9d0046c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9d0046e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9d004700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9d004720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9d004740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9d004760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9d004780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9d0047a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9d0047c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9d0047e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9d004800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9d004820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9d004840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9d004860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9d004880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9d0048a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9d0048c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9d0048e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9d004900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9d004920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9d004940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9d004960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9d004980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9d0049a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9d0049c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9d0049e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup
+ *(.startup)
+
+.text           0x9d005490        0x0
+ *(.stub .gnu.linkonce.t.*)
+ *(.text.*personality*)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+ *(.gnu.warning)
+                0x9d005490                . = ALIGN (0x4)
+
+.init           0x9d005490        0x0
+ *crti.o(.init)
+ *crtbegin.o(.init)
+ *(EXCLUDE_FILE(*crtn.o *crtend?.o *crtend.o) .init)
+ *crtend.o(.init)
+ *crtn.o(.init)
+                0x9d005490                . = ALIGN (0x4)
+
+.fini           0x9d005490        0x0
+ *(.fini)
+                0x9d005490                . = ALIGN (0x4)
+
+.preinit_array  0x9d005490        0x0
+                0x9d005490                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x9d005490                PROVIDE (__preinit_array_end, .)
+                0x9d005490                . = ALIGN (0x4)
+
+.init_array     0x9d005490        0x0
+                0x9d005490                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x9d005490                PROVIDE (__init_array_end, .)
+                0x9d005490                . = ALIGN (0x4)
+
+.fini_array     0x9d005490        0x0
+                0x9d005490                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x9d005490                PROVIDE (__fini_array_end, .)
+                0x9d005490                . = ALIGN (0x4)
+
+.ctors          0x9d005490        0x0
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x9d005490                . = ALIGN (0x4)
+
+.dtors          0x9d005490        0x0
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x9d005490                . = ALIGN (0x4)
+
+.rodata         0x9d005490        0x0
+ *(.gnu.linkonce.r.*)
+ *(.rodata1)
+                0x9d005490                . = ALIGN (0x4)
+
+.sdata2         0x9d004000        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d004000                . = ALIGN (0x4)
+
+.sbss2          0x9d004000        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d004000                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+                0x9d004000                . = ALIGN (0x4)
+
+.eh_frame
+ *(.eh_frame)
+                0x9d004000                . = ALIGN (0x4)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x9d004000                . = ALIGN (0x4)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.jcr            0xa0000000        0x0
+ *(.jcr)
+                0xa0000000                . = ALIGN (0x4)
+
+.eh_frame
+ *(.eh_frame)
+                0xa0000000                . = ALIGN (0x4)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0xa0000000                . = ALIGN (0x4)
+
+.persist        0xa0000000        0x0
+                0xa0000000                _persist_begin = .
+ *(.persist .persist.*)
+ *(.pbss .pbss.*)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _persist_end = .
+
+.data           0xa0000000        0x0
+ *(.gnu.linkonce.d.*)
+ *(.data1)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                . = .
+                0xa0007ff0                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got            0xa0000000        0x0
+ *(.got.plt)
+ *(.got)
+                0xa0000000                . = ALIGN (0x4)
+
+.sdata          0xa0000000        0xc
+                0xa0000000                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata.lag_reset_frames.lag_reset_frames
+                0xa0000000        0x4 build/USB_Bootloaded_HID/production/main.o
+                0xa0000000                lag_reset_frames
+ .sdata.uart_baud.uart_baud
+                0xa0000004        0x4 build/USB_Bootloaded_HID/production/main.o
+                0xa0000004                uart_baud
+ .sdata.uart_rx_len.uart_rx_len
+                0xa0000008        0x1 build/USB_Bootloaded_HID/production/main.o
+                0xa0000008                uart_rx_len
+                0xa000000c                . = ALIGN (0x4)
+ *fill*         0xa0000009        0x3 
+                0xa000000c                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa000000c                . = ALIGN (0x4)
+                0xa000000c                _data_end = .
+                0xa000000c                _bss_begin = .
+
+.sbss           0xa000000c       0xf8
+                0xa000000c                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.latch.latch
+                0xa000000c        0x4 build/USB_Bootloaded_HID/production/main.o
+                0xa000000c                latch
+ .sbss.ioaux_state.ioaux_state
+                0xa0000010        0x4 build/USB_Bootloaded_HID/production/main.o
+                0xa0000010                ioaux_state
+ .sbss.mode.mode
+                0xa0000014        0x1 build/USB_Bootloaded_HID/production/main.o
+                0xa0000014                mode
+ .sbss.startup.startup
+                0xa0000015        0x1 build/USB_Bootloaded_HID/production/main.o
+                0xa0000015                startup
+ *(.scommon)
+ *fill*         0xa0000016        0x2 
+ .scommon       0xa0000018        0x8 build/USB_Bootloaded_HID/production/usb/usb.o
+                0xa0000018                lastTransmission
+                0xa000001c                usb_in_rdy
+                0xa000001d                last_usb_in
+                0xa000001e                next_usb_out
+                0xa000001f                usb_in_pos
+ .scommon       0xa0000020       0x5c build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0xa0000020                pDst
+                0xa0000024                USBDeferINDataStagePackets
+                0xa0000028                CtrlTrfData
+                0xa0000030                USBDeferOUTDataStagePackets
+                0xa0000034                USBDeviceState
+                0xa0000038                controlTransferState
+                0xa0000039                endpoint_number
+                0xa000003c                ep_data_out
+                0xa0000040                USBStatusStageEnabledFlag1
+                0xa0000044                USBStatusStageEnabledFlag2
+                0xa0000048                BothEP0OutUOWNsSet
+                0xa000004c                pBDTEntryEP0OutNext
+                0xa0000050                USBBusIsSuspended
+                0xa0000054                USBStatusStageTimeoutCounter
+                0xa0000058                SetupPkt
+                0xa0000060                ep_data_in
+                0xa0000063                shortPacketStatus
+                0xa0000064                pBDTEntryEP0OutCurrent
+                0xa0000068                USBActiveConfiguration
+                0xa000006c                RemoteWakeup
+                0xa0000070                USTATcopy
+                0xa0000074                USBAlternateInterface
+                0xa0000078                USBDeferStatusStagePacket
+ .scommon       0xa000007c       0x38 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0xa000007c                control_signal_bitmap
+                0xa0000080                cdc_tx_len
+                0xa0000084                pCDCSrc
+                0xa0000088                CDCDataOutHandle
+                0xa000008c                cdc_rx_len
+                0xa0000090                line_coding
+                0xa0000098                BaudRateGen
+                0xa000009c                CDCDataInHandle
+                0xa00000a0                cdc_trf_state
+                0xa00000a4                pCDCDst
+                0xa00000a8                cdc_mem_type
+                0xa00000ac                dummy_encapsulated_cmd_response
+ .scommon       0xa00000b4       0x50 build/USB_Bootloaded_HID/production/main.o
+                0xa00000b4                latches_per_frame
+                0xa00000b8                data_read
+                0xa00000bc                uart_err_count
+                0xa00000c0                framecount
+                0xa00000c8                lastlag
+                0xa00000cc                latch_dir
+                0xa00000d0                led_count
+                0xa00000d4                uart_rx_timeout
+                0xa00000d8                usb_rx_len
+                0xa00000d9                vsync_detect
+                0xa00000dc                frameperiod
+                0xa00000e0                led_flash
+                0xa00000e4                lagdet_ena
+                0xa00000e8                data_write
+                0xa00000ec                next_usb_tx
+                0xa00000f0                console_is_reset
+                0xa00000f4                btn_count
+                0xa00000fc                data_mask
+                0xa0000100                clock
+                0xa0000104                _sbss_end = .
+                0xa0000104                . = ALIGN (0x4)
+
+.bss            0xa0000200      0x708
+ *(.dynbss)
+ *(COMMON)
+ COMMON         0xa0000200       0x93 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0xa0000200                BDT
+                0xa0000260                inPipes
+                0xa0000270                pBDTEntryIn
+                0xa000027c                pBDTEntryOut
+                0xa0000288                outPipes
+ *fill*         0xa0000293        0x1 
+ COMMON         0xa0000294      0x10a build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0xa0000294                cdc_data_tx
+                0xa0000354                cdc_data_rx
+                0xa0000394                cdc_notice
+ *fill*         0xa000039e        0x2 
+ COMMON         0xa00003a0      0x568 build/USB_Bootloaded_HID/production/main.o
+                0xa00003a0                uart_tx_buf
+                0xa00003c0                usb_tx_buf
+                0xa0000400                data
+                0xa0000800                uart_rx_buf
+                0xa0000848                usb_rx_buf
+                0xa0000908                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0xa0000908                . = ALIGN (0x4)
+                0xa0000908                _end = .
+                0xa0000908                _bss_end = .
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+
+/DISCARD/
+ *(.pdr)
+ *(.rel.dyn)
+ *(.note.GNU-stack)
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.discard)
+
+.gptab.sdata
+ *(.gptab.data)
+ *(.gptab.sdata)
+
+.gptab.sbss
+ *(.gptab.bss)
+ *(.gptab.sbss)
+
+.mdebug.abi32   0xa0000908        0x0
+ *(.mdebug.abi32)
+ .mdebug.abi32  0xa0000908        0x0 build/USB_Bootloaded_HID/production/usb/usb.o
+ .mdebug.abi32  0xa0000908        0x0 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .mdebug.abi32  0xa0000908        0x0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .mdebug.abi32  0xa0000908        0x0 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .mdebug.abi32  0xa0000908        0x0 build/USB_Bootloaded_HID/production/main.o
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .mdebug.abi32  0xa0000908        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.mdebug.abiN32
+ *(.mdebug.abiN32)
+
+.mdebug.abi64
+ *(.mdebug.abi64)
+
+.mdebug.abiO64
+ *(.mdebug.abiO64)
+
+.mdebug.eabi32
+ *(.mdebug.eabi32)
+
+.mdebug.eabi64
+ *(.mdebug.eabi64)
+
+.gcc_compiled_long32
+ *(.gcc_compiled_long32)
+
+.gcc_compiled_long64
+ *(.gcc_compiled_long64)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x90
+ *(.comment)
+ .comment       0x00000000       0x3c build/USB_Bootloaded_HID/production/usb/usb.o
+                                 0x3d (size before relaxing)
+ .comment       0x00000000       0x3d build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .comment       0x00000000       0x3d build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .comment       0x00000000       0x3d build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .comment       0x00000000       0x3d build/USB_Bootloaded_HID/production/main.o
+ .comment       0x0000003c       0x3c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+                                 0x3d (size before relaxing)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .comment       0x00000078       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+                                 0x19 (size before relaxing)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x438
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_aranges
+                0x00000048       0x68 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_aranges
+                0x000000b0       0x58 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_aranges
+                0x00000108       0xb8 build/USB_Bootloaded_HID/production/main.o
+ .debug_aranges
+                0x000001c0       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x00000200       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x00000220       0x60 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_aranges
+                0x00000280       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_aranges
+                0x000002a0       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_aranges
+                0x000002c0       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_aranges
+                0x000002e0       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_aranges
+                0x00000300       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_aranges
+                0x00000320       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_aranges
+                0x00000340       0x58 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_aranges
+                0x00000398       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_aranges
+                0x000003b8       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x000003d8       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_aranges
+                0x000003f8       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x00000418       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_pubnames
+                0x00000000      0xddd
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x116 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_pubnames
+                0x00000116      0x312 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_pubnames
+                0x00000428      0x1b2 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_pubnames
+                0x000005da       0x73 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_pubnames
+                0x0000064d      0x3d2 build/USB_Bootloaded_HID/production/main.o
+ .debug_pubnames
+                0x00000a1f       0x2b c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x00000a4a       0x2b c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x00000a75       0x36 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x00000aab       0xca c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_pubnames
+                0x00000b75       0x2b c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_pubnames
+                0x00000ba0       0x2c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_pubnames
+                0x00000bcc       0x23 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_pubnames
+                0x00000bef       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_pubnames
+                0x00000c13       0x22 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_pubnames
+                0x00000c35       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_pubnames
+                0x00000c5a       0xb1 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_pubnames
+                0x00000d0b       0x2a c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_pubnames
+                0x00000d35       0x33 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x00000d68       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_pubnames
+                0x00000d88       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x00000dac       0x31 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_info     0x00000000     0xd6b5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1e07 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_info    0x00001e07     0x3754 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_info    0x0000555b     0x2728 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_info    0x00007c83     0x159a build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_info    0x0000921d     0x3767 build/USB_Bootloaded_HID/production/main.o
+ .debug_info    0x0000c984       0xb6 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_info    0x0000ca3a       0xb6 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_info    0x0000caf0       0xbc c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_info    0x0000cbac      0x196 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_info    0x0000cd42       0xba c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_info    0x0000cdfc       0xbc c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_info    0x0000ceb8       0xa8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_info    0x0000cf60       0xaa c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_info    0x0000d00a       0xa6 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_info    0x0000d0b0       0xac c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_info    0x0000d15c        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .debug_info    0x0000d15c      0x175 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_info    0x0000d2d1       0xb4 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_info    0x0000d385       0xde c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000d463       0xb8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_info    0x0000d51b       0xc0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x0000d5db       0xda c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_abbrev   0x00000000     0x10b5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x282 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_abbrev  0x00000282      0x378 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_abbrev  0x000005fa      0x2bd build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_abbrev  0x000008b7      0x1e5 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_abbrev  0x00000a9c      0x3bd build/USB_Bootloaded_HID/production/main.o
+ .debug_abbrev  0x00000e59       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x00000e7e       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x00000ea3       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x00000ec8       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_abbrev  0x00000eed       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_abbrev  0x00000f12       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_abbrev  0x00000f37       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_abbrev  0x00000f5c       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_abbrev  0x00000f81       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_abbrev  0x00000fa6       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_abbrev  0x00000fcb        0x1 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .debug_abbrev  0x00000fcc       0x38 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_abbrev  0x00001004       0x25 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_abbrev  0x00001029       0x23 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x0000104c       0x23 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x0000106f       0x23 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00001092       0x23 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_line     0x00000000     0x1c1c
+ *(.debug_line)
+ .debug_line    0x00000000      0x231 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_line    0x00000231      0x728 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_line    0x00000959      0x308 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_line    0x00000c61      0x19a build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_line    0x00000dfb      0x6b8 build/USB_Bootloaded_HID/production/main.o
+ .debug_line    0x000014b3       0x73 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_line    0x00001526       0x73 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_line    0x00001599       0x6e c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_line    0x00001607       0x64 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_line    0x0000166b       0x77 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_line    0x000016e2       0x78 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_line    0x0000175a       0x6d c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_line    0x000017c7       0x6e c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_line    0x00001835       0x6c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_line    0x000018a1       0x6f c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_line    0x00001910        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .debug_line    0x00001910       0x62 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_line    0x00001972       0x72 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_line    0x000019e4       0x97 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00001a7b       0x84 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_line    0x00001aff       0x88 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x00001b87       0x95 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_frame    0x00000000      0x854
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x80 build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_frame   0x00000080       0xdc build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_frame   0x0000015c       0xb0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_frame   0x0000020c      0x350 build/USB_Bootloaded_HID/production/main.o
+ .debug_frame   0x0000055c       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x0000057c       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x0000059c       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x000005c4       0xa0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_frame   0x00000664       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_frame   0x00000684       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_frame   0x000006a4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_frame   0x000006c4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_frame   0x000006e4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_frame   0x00000704       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_frame   0x00000724       0x90 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_frame   0x000007b4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_frame   0x000007d4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x000007f4       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_frame   0x00000814       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_frame   0x00000834       0x20 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_str      0x00000000      0xa86
+ *(.debug_str)
+ .debug_str     0x00000000      0x12d build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_str     0x0000012d      0x364 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_str     0x00000491      0x1c2 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_str     0x00000653      0x10c build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_str     0x0000075f      0x327 build/USB_Bootloaded_HID/production/main.o
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_str     0x00000a86        0x0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+
+.debug_loc      0x00000000      0x5c3
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x5a build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_loc     0x0000005a      0x1f6 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_loc     0x00000250      0x12c build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_loc     0x0000037c      0x247 build/USB_Bootloaded_HID/production/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+                0x00000000      0x8b9
+ *(.debug_pubtypes)
+ .debug_pubtypes
+                0x00000000      0x16c build/USB_Bootloaded_HID/production/usb/usb.o
+ .debug_pubtypes
+                0x0000016c      0x285 build/USB_Bootloaded_HID/production/usb/usb_device.o
+ .debug_pubtypes
+                0x000003f1      0x21f build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+ .debug_pubtypes
+                0x00000610      0x104 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+ .debug_pubtypes
+                0x00000714      0x1a5 build/USB_Bootloaded_HID/production/main.o
+
+.debug_ranges   0x00000000      0x138
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .debug_ranges  0x00000010       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .debug_ranges  0x00000020       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .debug_ranges  0x00000030       0x50 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .debug_ranges  0x00000080       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .debug_ranges  0x00000090       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .debug_ranges  0x000000a0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .debug_ranges  0x000000b0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .debug_ranges  0x000000c0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .debug_ranges  0x000000d0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .debug_ranges  0x000000e0       0x48 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .debug_ranges  0x00000128       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ *(.gnu.attributes)
+ .gnu.attributes
+                0x00000000       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+ .gnu.attributes
+                0x00000010       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+ .gnu.attributes
+                0x00000020       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+ .gnu.attributes
+                0x00000030       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+ .gnu.attributes
+                0x00000040       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+ .gnu.attributes
+                0x00000050       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+ .gnu.attributes
+                0x00000060       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+ .gnu.attributes
+                0x00000070       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+ .gnu.attributes
+                0x00000080       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+ .gnu.attributes
+                0x00000090       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+ .gnu.attributes
+                0x000000a0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+ .gnu.attributes
+                0x000000b0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+ .gnu.attributes
+                0x000000c0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+ .gnu.attributes
+                0x000000d0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .gnu.attributes
+                0x000000e0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .gnu.attributes
+                0x000000f0       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .gnu.attributes
+                0x00000100       0x10 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2\libgcc.a
+START GROUP
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libdebug.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libm.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libe.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libdsp.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2\libgcc.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libc.a
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a
+END GROUP
+LOAD c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2\libgcc.a
+OUTPUT(dist/USB_Bootloaded_HID/production/nes-snes-replay.X.production.elf elf32-tradlittlemips)
+LOAD stack
+LOAD data_init
+
+.reginfo        0x00000000       0x18
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+
+.stack          0xa0000938      0x400
+ .stack         0xa0000938      0x400 stack
+
+.text.USBDeviceTasks
+                0x9d005490     0x11c8
+ .text.USBDeviceTasks
+                0x9d005490     0x11c8 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d005490                USBDeviceTasks
+
+.rodata         0x9d006658      0x558
+ .rodata        0x9d006658      0x558 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+                0x9d006658                __IntSrcTbl
+                0x9d0069a0                __IntVectorTbl
+
+.text.main      0x9d006bb0      0x4e0
+ .text.main     0x9d006bb0      0x4e0 build/USB_Bootloaded_HID/production/main.o
+                0x9d006bb0                main
+
+.text.nesLatchHandler
+                0x9d007090      0x3bc
+ .text.nesLatchHandler
+                0x9d007090      0x3bc build/USB_Bootloaded_HID/production/main.o
+                0x9d007090                nesLatchHandler
+
+.text.parse_uart
+                0x9d00744c      0x350
+ .text.parse_uart
+                0x9d00744c      0x350 build/USB_Bootloaded_HID/production/main.o
+                0x9d00744c                parse_uart
+
+.text.timer1Handler
+                0x9d00779c      0x330
+ .text.timer1Handler
+                0x9d00779c      0x330 build/USB_Bootloaded_HID/production/main.o
+                0x9d00779c                timer1Handler
+
+.text.nesClock  0x9d007acc      0x200
+ .text.nesClock
+                0x9d007acc      0x200 build/USB_Bootloaded_HID/production/main.o
+                0x9d007acc                nesClock
+
+.text.USBDeviceInit
+                0x9d007ccc      0x1e8
+ .text.USBDeviceInit
+                0x9d007ccc      0x1e8 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d007ccc                USBDeviceInit
+
+.text.timer2Handler
+                0x9d007eb4      0x17c
+ .text.timer2Handler
+                0x9d007eb4      0x17c build/USB_Bootloaded_HID/production/main.o
+                0x9d007eb4                timer2Handler
+
+.text.snesIOChange
+                0x9d008030      0x178
+ .text.snesIOChange
+                0x9d008030      0x178 build/USB_Bootloaded_HID/production/main.o
+                0x9d008030                snesIOChange
+
+.text.CDCTxService
+                0x9d0081a8      0x160
+ .text.CDCTxService
+                0x9d0081a8      0x160 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0x9d0081a8                CDCTxService
+
+.text.USBCheckCDCRequest
+                0x9d008308      0x158
+ .text.USBCheckCDCRequest
+                0x9d008308      0x158 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0x9d008308                USBCheckCDCRequest
+
+.text.uart1Handler
+                0x9d008460      0x158
+ .text.uart1Handler
+                0x9d008460      0x158 build/USB_Bootloaded_HID/production/main.o
+                0x9d008460                uart1Handler
+
+.text.timer5Handler
+                0x9d0085b8      0x14c
+ .text.timer5Handler
+                0x9d0085b8      0x14c build/USB_Bootloaded_HID/production/main.o
+                0x9d0085b8                timer5Handler
+
+.text.timer4Handler
+                0x9d008704      0x148
+ .text.timer4Handler
+                0x9d008704      0x148 build/USB_Bootloaded_HID/production/main.o
+                0x9d008704                timer4Handler
+
+.text.CNHandler
+                0x9d00884c      0x144
+ .text.CNHandler
+                0x9d00884c      0x144 build/USB_Bootloaded_HID/production/main.o
+                0x9d00884c                CNHandler
+
+.text.USBCtrlEPAllowStatusStage
+                0x9d008990      0x124
+ .text.USBCtrlEPAllowStatusStage
+                0x9d008990      0x124 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d008990                USBCtrlEPAllowStatusStage
+
+.text.nesClockHandler1
+                0x9d008ab4      0x10c
+ .text.nesClockHandler1
+                0x9d008ab4      0x10c build/USB_Bootloaded_HID/production/main.o
+                0x9d008ab4                nesClockHandler1
+
+.text.nesClockHandler0
+                0x9d008bc0      0x10c
+ .text.nesClockHandler0
+                0x9d008bc0      0x10c build/USB_Bootloaded_HID/production/main.o
+                0x9d008bc0                nesClockHandler0
+
+.text.USBTransferOnePacket
+                0x9d008ccc      0x104
+ .text.USBTransferOnePacket
+                0x9d008ccc      0x104 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d008ccc                USBTransferOnePacket
+
+.text.USBCtrlTrfTxService
+                0x9d008dd0       0xe4
+ .text.USBCtrlTrfTxService
+                0x9d008dd0       0xe4 build/USB_Bootloaded_HID/production/usb/usb_device.o
+
+.text.general_exception
+                0x9d008eb4       0xd0
+ .text.general_exception
+                0x9d008eb4       0xd0 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+                0x9d008eb4                _general_exception_context
+
+.text.USBCtrlEPAllowDataStage
+                0x9d008f84       0xc8
+ .text.USBCtrlEPAllowDataStage
+                0x9d008f84       0xc8 build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d008f84                USBCtrlEPAllowDataStage
+
+.text.getsUSBUSART
+                0x9d00904c       0xb0
+ .text.getsUSBUSART
+                0x9d00904c       0xb0 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0x9d00904c                getsUSBUSART
+
+.text           0x9d0090fc       0xa8
+ .text          0x9d0090fc       0xa8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(memset.o)
+                0x9d0090fc                memset
+
+.text.setup_uart
+                0x9d0091a4       0xa4
+ .text.setup_uart
+                0x9d0091a4       0xa4 build/USB_Bootloaded_HID/production/main.o
+                0x9d0091a4                setup_uart
+
+.text.nesPrepareNext
+                0x9d009248       0xa4
+ .text.nesPrepareNext
+                0x9d009248       0xa4 build/USB_Bootloaded_HID/production/main.o
+                0x9d009248                nesPrepareNext
+
+.dinit          0x9d0092ec       0x90
+ .dinit         0x9d0092ec       0x90 data_init
+
+.text.UserUSBSetLineCodingHandler
+                0x9d00937c       0x88
+ .text.UserUSBSetLineCodingHandler
+                0x9d00937c       0x88 build/USB_Bootloaded_HID/production/usb/usb.o
+                0x9d00937c                UserUSBSetLineCodingHandler
+
+.text.SerGetDataByte
+                0x9d009404       0x84
+ .text.SerGetDataByte
+                0x9d009404       0x84 build/USB_Bootloaded_HID/production/main.o
+                0x9d009404                SerGetDataByte
+
+.text.lagtimer_init
+                0x9d009488       0x84
+ .text.lagtimer_init
+                0x9d009488       0x84 build/USB_Bootloaded_HID/production/main.o
+                0x9d009488                lagtimer_init
+
+.text.frametimer_init
+                0x9d00950c       0x80
+ .text.frametimer_init
+                0x9d00950c       0x80 build/USB_Bootloaded_HID/production/main.o
+                0x9d00950c                frametimer_init
+
+.text.datatimer_init
+                0x9d00958c       0x80
+ .text.datatimer_init
+                0x9d00958c       0x80 build/USB_Bootloaded_HID/production/main.o
+                0x9d00958c                datatimer_init
+
+.text.UARTEnable
+                0x9d00960c       0x80
+ .text.UARTEnable
+                0x9d00960c       0x80 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d00960c                UARTEnable
+
+.text.USBEnableEndpoint
+                0x9d00968c       0x6c
+ .text.USBEnableEndpoint
+                0x9d00968c       0x6c build/USB_Bootloaded_HID/production/usb/usb_device.o
+                0x9d00968c                USBEnableEndpoint
+
+.text.CDCInitEP
+                0x9d0096f8       0x6c
+ .text.CDCInitEP
+                0x9d0096f8       0x6c build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0x9d0096f8                CDCInitEP
+
+.text.USBConfigureEndpoint
+                0x9d009764       0x5c
+ .text.USBConfigureEndpoint
+                0x9d009764       0x5c build/USB_Bootloaded_HID/production/usb/usb_device.o
+
+.text.UARTSetDataRate
+                0x9d0097c0       0x5c
+ .text.UARTSetDataRate
+                0x9d0097c0       0x5c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d0097c0                UARTSetDataRate
+
+.text.USER_USB_CALLBACK_EVENT_HANDLER
+                0x9d00981c       0x4c
+ .text.USER_USB_CALLBACK_EVENT_HANDLER
+                0x9d00981c       0x4c build/USB_Bootloaded_HID/production/usb/usb.o
+                0x9d00981c                USER_USB_CALLBACK_EVENT_HANDLER
+
+.text.SerSendDataByte
+                0x9d009868       0x48
+ .text.SerSendDataByte
+                0x9d009868       0x48 build/USB_Bootloaded_HID/production/main.o
+                0x9d009868                SerSendDataByte
+
+.rodata.configDescriptor1.configDescriptor1
+                0x9d0098b0       0x44
+ .rodata.configDescriptor1.configDescriptor1
+                0x9d0098b0       0x44 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d0098b0                configDescriptor1
+
+.text.PORTSetPinsDigitalIn
+                0x9d0098f4       0x3c
+ .text.PORTSetPinsDigitalIn
+                0x9d0098f4       0x3c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_in_lib.o)
+                0x9d0098f4                PORTSetPinsDigitalIn
+
+.text.PORTSetPinsDigitalOut
+                0x9d009930       0x3c
+ .text.PORTSetPinsDigitalOut
+                0x9d009930       0x3c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_pins_digital_out_lib.o)
+                0x9d009930                PORTSetPinsDigitalOut
+
+.text.UARTConfigure
+                0x9d00996c       0x3c
+ .text.UARTConfigure
+                0x9d00996c       0x3c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d00996c                UARTConfigure
+
+.rodata.sd002.sd002
+                0x9d0099a8       0x38
+ .rodata.sd002.sd002
+                0x9d0099a8       0x38 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d0099a8                sd002
+
+.text.INTSetVectorPriority
+                0x9d0099e0       0x38
+ .text.INTSetVectorPriority
+                0x9d0099e0       0x38 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+                0x9d0099e0                INTSetVectorPriority
+
+.text.INTSetVectorSubPriority
+                0x9d009a18       0x38
+ .text.INTSetVectorSubPriority
+                0x9d009a18       0x38 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+                0x9d009a18                INTSetVectorSubPriority
+
+.text           0x9d009a50       0x34
+ .text          0x9d009a50       0x34 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/crt0.o
+                0x9d009a7c                __crt0_exit
+
+.text.INTEnableSystemMultiVectoredInt
+                0x9d009a84       0x34
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d009a84       0x34 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_mv_int_lib.o)
+                0x9d009a84                INTEnableSystemMultiVectoredInt
+
+.text.INTClearFlag
+                0x9d009ab8       0x28
+ .text.INTClearFlag
+                0x9d009ab8       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_tbl_lib.o)
+                0x9d009ab8                INTClearFlag
+
+.text.UARTSetFifoMode
+                0x9d009ae0       0x28
+ .text.UARTSetFifoMode
+                0x9d009ae0       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d009ae0                UARTSetFifoMode
+
+.text.UARTSetLineControl
+                0x9d009b08       0x28
+ .text.UARTSetLineControl
+                0x9d009b08       0x28 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d009b08                UARTSetLineControl
+
+.text.putUSBUSART
+                0x9d009b30       0x24
+ .text.putUSBUSART
+                0x9d009b30       0x24 build/USB_Bootloaded_HID/production/usb/usb_function_cdc.o
+                0x9d009b30                putUSBUSART
+
+.text.PORTReadBits
+                0x9d009b54       0x24
+ .text.PORTReadBits
+                0x9d009b54       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_read_bits_lib.o)
+                0x9d009b54                PORTReadBits
+
+.text.PORTClearBits
+                0x9d009b78       0x24
+ .text.PORTClearBits
+                0x9d009b78       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_clear_bits_lib.o)
+                0x9d009b78                PORTClearBits
+
+.text.PORTSetBits
+                0x9d009b9c       0x24
+ .text.PORTSetBits
+                0x9d009b9c       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_set_bits_lib.o)
+                0x9d009b9c                PORTSetBits
+
+.text.PORTToggleBits
+                0x9d009bc0       0x24
+ .text.PORTToggleBits
+                0x9d009bc0       0x24 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(port_toggle_bits_lib.o)
+                0x9d009bc0                PORTToggleBits
+
+.text.INTRestoreInterrupts
+                0x9d009be4       0x1c
+ .text.INTRestoreInterrupts
+                0x9d009be4       0x1c c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_restore_interrupts_lib.o)
+                0x9d009be4                INTRestoreInterrupts
+
+.rodata.sd001.sd001
+                0x9d009c00       0x18
+ .rodata.sd001.sd001
+                0x9d009c00       0x18 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d009c00                sd001
+
+.rodata         0x9d009c18       0x18
+ .rodata        0x9d009c18       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(_ports_tbl_libp.o)
+                0x9d009c18                PortRegTbl
+
+.text           0x9d009c30       0x18
+ .text          0x9d009c30       0x18 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+                0x9d009c30                _nmi_handler
+
+.rodata.device_dsc.device_dsc
+                0x9d009c48       0x14
+ .rodata.device_dsc.device_dsc
+                0x9d009c48       0x14 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d009c48                device_dsc
+
+.rodata.USB_SD_Ptr.USB_SD_Ptr
+                0x9d009c5c        0xc
+ .rodata.USB_SD_Ptr.USB_SD_Ptr
+                0x9d009c5c        0xc build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d009c5c                USB_SD_Ptr
+
+.text.InitializeUSB
+                0x9d009c68        0x8
+ .text.InitializeUSB
+                0x9d009c68        0x8 build/USB_Bootloaded_HID/production/usb/usb.o
+                0x9d009c68                InitializeUSB
+
+.rodata.iopin_data0.iopin_data0
+                0x9d009c70        0x8
+ .rodata.iopin_data0.iopin_data0
+                0x9d009c70        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d009c70                iopin_data0
+
+.rodata.iopin_data1.iopin_data1
+                0x9d009c78        0x8
+ .rodata.iopin_data1.iopin_data1
+                0x9d009c78        0x8 build/USB_Bootloaded_HID/production/main.o
+                0x9d009c78                iopin_data1
+
+.text.INTDisableInterrupts
+                0x9d009c80        0x8
+ .text.INTDisableInterrupts
+                0x9d009c80        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_disable_interrupts_lib.o)
+                0x9d009c80                INTDisableInterrupts
+
+.rodata         0x9d009c88        0x8
+ .rodata        0x9d009c88        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(uart_lib.o)
+                0x9d009c88                uartReg
+
+.text.INTEnableInterrupts
+                0x9d009c90        0x8
+ .text.INTEnableInterrupts
+                0x9d009c90        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libmchp_peripheral_32MX250F128B.a(int_enable_interrupts_lib.o)
+                0x9d009c90                INTEnableInterrupts
+
+.text._bootstrap_exception_handler
+                0x9d009c98        0x8
+ .text._bootstrap_exception_handler
+                0x9d009c98        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+                0x9d009c98                _bootstrap_exception_handler
+
+.text._on_reset
+                0x9d009ca0        0x8
+ .text._on_reset
+                0x9d009ca0        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+                0x9d009ca0                _on_reset
+
+.text._on_bootstrap
+                0x9d009ca8        0x8
+ .text._on_bootstrap
+                0x9d009ca8        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+                0x9d009ca8                _on_bootstrap
+
+.text._general_exception_handler
+                0x9d009cb0        0x8
+ .text._general_exception_handler
+                0x9d009cb0        0x8 c:/program files (x86)/microchip/compilers/xc32/v1.22/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib\libpic32.a(default-general-exception-handler.o)
+                0x9d009cb0                _general_exception_handler
+
+.rodata.sd000.sd000
+                0x9d009cb8        0x4
+ .rodata.sd000.sd000
+                0x9d009cb8        0x4 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d009cb8                sd000
+
+.rodata.USB_CD_Ptr.USB_CD_Ptr
+                0x9d009cbc        0x4
+ .rodata.USB_CD_Ptr.USB_CD_Ptr
+                0x9d009cbc        0x4 build/USB_Bootloaded_HID/production/usb/usb_descriptors.o
+                0x9d009cbc                USB_CD_Ptr

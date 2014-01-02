@@ -1,0 +1,8 @@
+Replay with the following settings:
+
+replay.py smw-glitched.frame.r16m <serialdev> 0 1 150
+
+
+Super Mario World (glitched) by MasterJun in 5993 frames
+- Requires 2 players
+- Requires 6- or 7-wire hookups
