@@ -1,0 +1,9 @@
+TODO
+====
+
+- (med) Make a graphical tool for controlling the replay device
+
+- (med) Speed up / optimize latch and clocking out
+
+- (hi!) add a this-is-the-last-frame handler in the device firmware instead of relying
+        on a timed reset from the host software

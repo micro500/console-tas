@@ -1,0 +1,11 @@
+Use USB Mode.
+
+VID 0xBAD5
+PID 0xAD00
+
+Click Connect
+Click Load Hex File, select your hex file
+Click Erase-Program-Verify
+
+"Driverless" under Windows, requires special drivers under Mac or Linux
+Requires special support for other OS (will come in a future update)
