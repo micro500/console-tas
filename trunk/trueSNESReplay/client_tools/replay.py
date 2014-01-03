@@ -449,9 +449,9 @@ while (1):
             # force 60fps, disable frame period learning,
             ser.write("~c6")
 
-            # skip the first ghost latch (cold power off),
+            # skip the first ghost latch
             if (ftype == '.r08'):
-                ser.write("~s" + chr(skip))
+                ser.write("~s" + chr(skip + ord('0')))
                 # if we are skipping this latch, feed initial empty player data.
                 if (skip):
                     p[0] = 0

@@ -1,8 +1,3 @@
-20131201:
-THIS README IS INCOMPLETE!
-
-
-
 Known Issues
 ============
 
@@ -102,3 +97,13 @@ Check for a newer release at truecontrol.org. If available, the download will
 include the updating utility for Windows.
 
 todo
+
+
+CHANGES
+=======
+1.0f:
+ * Decreased response time between clocks by about 400ns, at the expense
+   of 200ns at the end of the last clock. Latch should also be faster.
+
+1.0e:
+ * Fixed NES support :)
