@@ -23,6 +23,89 @@ def send_buttons(count):
     
     return count
     
+def display_buttons(frame):
+    if frame * 4 + 3 >= len(all_buttons):
+        return "              "
+      
+
+    start = frame*4
+    end = start+3
+    buttons = all_buttons[start:end]
+    controls = "UDLRBAZSLRudlr"
+    
+    ret = ""
+    if (ord(buttons[0]) & 0x08):
+        ret = ret + "U"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x04):
+        ret = ret + "D"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x02):
+        ret = ret + "L"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x01):
+        ret = ret + "R"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x40):
+        ret = ret + "B"
+    else:
+        ret = ret + " "
+        
+    if (ord(buttons[0]) & 0x80):
+        ret = ret + "A"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x20):
+        ret = ret + "Z"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[0]) & 0x10):
+        ret = ret + "S"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x20):
+        ret = ret + "L"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x10):
+        ret = ret + "R"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x08):
+        ret = ret + "u"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x04):
+        ret = ret + "d"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x02):
+        ret = ret + "l"
+    else:
+        ret = ret + " "
+    
+    if (ord(buttons[1]) & 0x01):
+        ret = ret + "L"
+    else:
+        ret = ret + " "
+        
+    return ret
+    
 port = serial.Serial("COM11", 19200)
 port.readline();
 
@@ -86,9 +169,9 @@ while 1:
     if new_frame != cur_frame:
         cur_frame = new_frame
         # Clear the line
-        print "\r\t\t\t\t",
+        print "\r\t\t\t\t\t\t\t\t",
         print "\rFrame: " + str(cur_frame),
-        
+        print "\t" + display_buttons(cur_frame),
         if done == 0:
             if new_frame % 128 == 1:
                 print "\tSending...",
