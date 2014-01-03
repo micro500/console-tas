@@ -5,6 +5,24 @@ def reverse_buttons(str):
         result = result + str[i*4 + 3] + str[i*4 + 2] + str[i*4 + 1] + str[i*4]
     return result
 
+def send_buttons(count):
+    global button_data_sent
+    if button_data_sent + count > len(all_buttons):
+        count = len(all_buttons) - button_data_sent
+    
+    if count == 0:
+        return 0
+    
+    end = button_data_sent + count
+    
+    buttons = all_buttons[button_data_sent:end]
+    buttons = reverse_buttons(buttons)
+    port.write(buttons)
+    
+    button_data_sent = button_data_sent + count
+    
+    return count
+    
 port = serial.Serial("COM11", 19200)
 port.readline();
 
@@ -53,11 +71,10 @@ print "Description:\t" + movie_description
 print "Rerecords:\t" + str(rerecords)
 print "\n"
 
-buttons = movie.read(512)
-buttons = reverse_buttons(buttons)
+all_buttons = movie.read()
+button_data_sent = 0
 
-port.write(buttons)
-port.flush()
+send_buttons(512)
 
 cur_frame = -1
 new_frame = 0
@@ -75,14 +92,7 @@ while 1:
         if done == 0:
             if new_frame % 128 == 1:
                 print "\tSending...",
-                buttons = movie.read(512)
-                if buttons != "":
-                    buttons = reverse_buttons(buttons)
-                    port.write(buttons)
-                else:
+                if send_buttons(512) < 512:
                     done = 1
-                    print "\tAll data sent!"
-                if len(buttons) < 512:
-                    done = 1
-                    print "\tAll data sent!"
+                    print "\tAll data sent!" 
 
