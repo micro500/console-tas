@@ -29,7 +29,7 @@ def display_buttons(frame):
       
 
     start = frame*4
-    end = start+3
+    end = start+4
     buttons = all_buttons[start:end]
     controls = "UDLRBAZSLRudlr"
     
@@ -103,6 +103,17 @@ def display_buttons(frame):
         ret = ret + "L"
     else:
         ret = ret + " "
+
+    x = ord(buttons[2])
+    if x > 127:
+	x = (x - 128) * -1
+
+    y = ord(buttons[3])
+    if y > 127:
+	y = (y - 128) * -1
+
+    ret = ret + str(x) + " "
+    ret = ret + str(y)
         
     return ret
     
