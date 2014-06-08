@@ -117,10 +117,13 @@ def display_buttons(frame):
         
     return ret
     
-port = serial.Serial("COM11", 19200)
+port = serial.Serial("COM11", 19200, timeout=1)
 port.readline();
 
 movie = open("snark,kyman,sonicpacker,mickey_vis,tot-sm64.m64","rb")
+
+
+mods_filename = "" # "filename.txt"
 
 signature = movie.read(4)
 if signature != "M64\x1A":
@@ -132,6 +135,7 @@ VI_count = movie.read(4)
 rerecords = movie.read(4)
 rerecords = (ord(rerecords[3]) << 24) + (ord(rerecords[2]) << 16) + (ord(rerecords[1]) << 8) + ord(rerecords[0])
 VIs_per_sec = movie.read(1)
+print ord(VIs_per_sec)
 controller_count = movie.read(1)
 
 dummy = movie.read(2)
@@ -168,6 +172,22 @@ print "\n"
 all_buttons = movie.read()
 button_data_sent = 0
 
+print len(all_buttons)
+if mods_filename != "":
+    mods = open(mods_filename)
+    mods_lines = mods.readlines()
+    mods.close
+    for line in mods_lines[:]:
+        mod_details = line.split(':')
+        if mod_details[0] == "a":
+            frame = int(mod_details[1])
+            pos = frame * 4
+            count = int(mod_details[2])
+            print "Adding " + str(count) + " frames after " + str(frame)
+            all_buttons = all_buttons[:pos] + chr(0) * (count * 4) + all_buttons[pos:]
+
+print len(all_buttons)
+
 send_buttons(512)
 
 cur_frame = -1
@@ -175,18 +195,21 @@ new_frame = 0
 done = 0
 while 1:
     new_string = port.readline()
-    new_frame = int(new_string) / 4
-    
-    if new_frame != cur_frame:
-        cur_frame = new_frame
-        # Clear the line
-        print "\r\t\t\t\t\t\t\t\t",
-        print "\rFrame: " + str(cur_frame),
-        print "\t" + display_buttons(cur_frame),
-        if done == 0:
-            if new_frame % 128 == 1:
-                print "\tSending...",
-                if send_buttons(512) < 512:
-                    done = 1
-                    print "\tAll data sent!" 
+    if new_string != '':
+        new_frame = int(new_string) / 4
+        
+        if new_frame != cur_frame:
+            if new_frame - cur_frame > 1:
+                print "SKIP...\n" * (new_frame - cur_frame - 1),
+            cur_frame = new_frame
+            # Clear the line
+            print "\r\t\t\t\t\t\t\t\t",
+            print "\rFrame: " + str(cur_frame),
+            print "\t" + display_buttons(cur_frame)
+            if done == 0:
+                if new_frame % 128 == 1:
+                    print "\tSending...",
+                    if send_buttons(512) < 512:
+                        done = 1
+                        print "\tAll data sent!" 
 
