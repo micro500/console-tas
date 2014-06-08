@@ -17,20 +17,27 @@ var
 
 
 
-pub main
+pub main | sent_frame
   term.start(31, 30, 0, 19200)
-
+      
   cognew(new_data, @stack)
   cognew(@entry, @spin_frame)
 
-  repeat
-    'term.bin(data_out,32)
-    term.dec(long[@spin_frame])
-    term.str(string(13))
-    term.str(string(10))
+  sent_frame := -4 
+  
+  repeat                      
+    if (sent_frame < long[@spin_frame])
+      sent_frame := sent_frame + 4
+      'term.bin(data_out,32)
+      term.dec(sent_frame)
+      'term.dec(long[@spin_frame])
+      term.str(string(13))
+      term.str(string(10))
+
+      
 '    term.dec(long[@spin_frame + 4])
 '    term.str(string(13))
-    waitcnt(80_000 + cnt)
+    'waitcnt(80_000 + cnt)
 
 pub new_data | cur_addr, inbyte
   cur_addr := 0
