@@ -1,0 +1,1 @@
+This software is for testing Tool Assisted Speedruns on the actual consoles they are designed for.
